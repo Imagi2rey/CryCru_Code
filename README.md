@@ -1,8 +1,4 @@
-# Crypto Dashboard
-
-[Live Site](http://crypto.justinspegele.com/)
-
-[Releases](https://github.com/jspegele/cryptodash/releases)
+# CryCru
 
 ## Built with
 - React
