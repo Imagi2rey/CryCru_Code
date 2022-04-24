@@ -1,0 +1,23 @@
+.text-left {
+  text-align: left;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.text-right {
+  text-align: right;
+}
+
+.green-text {
+  color: $positive;
+}
+
+.red-text {
+  color: $error;
+}
+
+.light-text {
+  font-weight: 300;
+}

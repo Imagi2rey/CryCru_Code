@@ -1,0 +1,26 @@
+.chart {
+  background-color: $surface;
+  min-height: 30rem;
+
+  @media (min-width: $tablet-breakpoint) {
+    background-color: $surface1;
+    min-height: 50rem;
+  }
+}
+
+.chart__select {
+  background-color: $surface3;
+  border: none;
+  color: $on-surface;
+  font-size: 1.6rem;
+  font-weight: 300;
+  margin: 1.6rem 1.6rem 0 0;
+  padding: .6rem 1.6rem;
+  float: right;
+}
+
+.chart--centered {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}

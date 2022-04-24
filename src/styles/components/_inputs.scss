@@ -1,0 +1,13 @@
+.text-input {
+  border: 1px solid #cacccd;
+  flex-grow: 1;
+  font-size: 2rem;
+  font-weight: 300;
+  height: 5rem;
+  padding: 1.2rem;
+  width: 100%;
+
+  @media (min-width: $tablet-breakpoint) {
+    max-width: 37rem;
+  }
+}
